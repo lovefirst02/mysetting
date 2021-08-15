@@ -2,7 +2,7 @@
    "sourceDescription":"☞源内软件未越狱用户请自行购买证书签名安装☜\n☞越狱用户安装屏蔽证书插件无需签名直接安装☜\n☞资源随缘更新,不出意外是一个星期会更新一次☜\n☞(资源来源于互联网，如侵权右上角联系删除)☜",
    "sourceProcessor":{
       "appsUnlock":{
-         "authUrl":"http://lingqi69.xyz/Yum/auth.php",
+         "authUrl":"https://distracted-brown-13aaee.netlify.app/.netlify/functions/api/status",
          "actions":[
             {
                "title":"打赏送解锁码",
